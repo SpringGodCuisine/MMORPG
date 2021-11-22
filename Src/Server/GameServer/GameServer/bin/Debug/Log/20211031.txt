@@ -1,0 +1,51 @@
+
+2021-10-31 22:13:35,349 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 22:20:40,878 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 22:20:58,960 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 22:21:19,813 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 22:21:19,847 [1] [WARN ] [GameServer] £ºStarting Listener...
+2021-10-31 22:21:19,855 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,855 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,856 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,887 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,887 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,887 [15] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,887 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,887 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:21:19,957 [1] [WARN ] [GameServer] £ºNetService Started
+2021-10-31 22:59:18,708 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 22:59:36,101 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 22:59:36,137 [1] [WARN ] [GameServer] £ºStarting Listener...
+2021-10-31 22:59:36,211 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,211 [15] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,211 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,211 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,212 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,212 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,212 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,212 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 22:59:36,282 [1] [WARN ] [GameServer] £ºNetService Started
+2021-10-31 23:19:35,723 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 23:19:35,954 [1] [WARN ] [GameServer] £ºStarting Listener...
+2021-10-31 23:19:36,022 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,022 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,022 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,022 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,022 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,022 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,022 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,022 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:19:36,127 [1] [WARN ] [GameServer] £ºNetService Started
+2021-10-31 23:22:38,779 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-10-31 23:22:38,910 [1] [WARN ] [GameServer] £ºStarting Listener...
+2021-10-31 23:22:38,975 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:38,975 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:38,975 [16] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:38,975 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:38,977 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:38,977 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:38,977 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:38,977 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-10-31 23:22:39,017 [1] [WARN ] [GameServer] £ºNetService Started
+2021-10-31 23:22:42,991 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:12375]] Connected
+2021-10-31 23:22:52,916 [21] [WARN ] [GameServer] £ºClient[] Disconnected

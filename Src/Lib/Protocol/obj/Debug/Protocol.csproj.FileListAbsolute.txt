@@ -1,0 +1,17 @@
+C:\u3d\mmorpg\Src\Lib\Protocol\bin\Debug\Protocol.dll
+C:\u3d\mmorpg\Src\Lib\Protocol\bin\Debug\Protocol.pdb
+C:\u3d\mmorpg\Src\Lib\Protocol\bin\Debug\protobuf-net.dll
+C:\u3d\mmorpg\Src\Lib\Protocol\bin\Debug\protobuf-net.xml
+C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
+C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.dll
+C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.pdb
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\bin\Debug\Protocol.dll
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\bin\Debug\Protocol.pdb
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\bin\Debug\protobuf-net.dll
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\bin\Debug\protobuf-net.xml
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.AssemblyReference.cache
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.dll
+D:\UNITYCODE\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.pdb

@@ -1,0 +1,24 @@
+2021-11-22 19:47:56,345 [ 1] INFO  Unity: LoadingManager start
+2021-11-22 19:47:59,539 [ 1] INFO  Unity: DataManager > DataManager()
+2021-11-22 19:48:25,667 [ 1] INFO  Unity: UserLoginRequest::user :111 psw:222
+2021-11-22 19:48:25,668 [ 1] INFO  Unity: ConnectToServer() Start 
+2021-11-22 19:48:25,672 [ 1] INFO  Unity: DoConnect
+2021-11-22 19:48:25,673 [ 1] INFO  Unity: NetClient.DoConnect on 127.0.0.1:8000
+2021-11-22 19:48:25,676 [ 1] INFO  Unity: Connect[0] to server 127.0.0.1:8000
+
+2021-11-22 19:48:25,679 [ 1] INFO  Unity: LoadingMesager::OnGameServerConnect :0 reason:Success
+2021-11-22 19:48:25,775 [ 1] INFO  Unity: OnLogin:Success [None]
+2021-11-22 19:48:25,777 [ 1] INFO  Unity: LoadLevel: CharSelect
+2021-11-22 19:48:26,137 [ 1] INFO  Unity: LevelLoadCompleted:1
+2021-11-22 19:52:39,661 [ 1] INFO  Unity: UserCreateCharacterRequest::name :23123213123123123123123 class:Warrior
+2021-11-22 19:52:39,692 [ 1] INFO  Unity: OnUserCreateCharacter:Success [None]
+2021-11-22 19:52:42,402 [ 1] INFO  Unity: UserCreateCharacterRequest::name :23123213123123123123123 class:Warrior
+2021-11-22 19:52:42,435 [ 1] INFO  Unity: OnUserCreateCharacter:Success [None]
+2021-11-22 19:52:43,534 [ 1] INFO  Unity: UserCreateCharacterRequest::name :23123213123123123123123 class:Warrior
+2021-11-22 19:52:43,567 [ 1] INFO  Unity: OnUserCreateCharacter:Success [None]
+2021-11-22 19:53:19,821 [ 1] INFO  Unity: OnDestroy NetworkManager.
+2021-11-22 19:53:19,822 [ 1] WARN  Unity: CloseConnection(), errorCode: 1007
+UnityEngine.Debug:LogWarning(Object)
+Network.NetClient:CloseConnection(Int32) (at Assets/Scripts/Network/NetClient.cs:180)
+Network.NetClient:OnDestroy() (at Assets/Scripts/Network/NetClient.cs:175)
+

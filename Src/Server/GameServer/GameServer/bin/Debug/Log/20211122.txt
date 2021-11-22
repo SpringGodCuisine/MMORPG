@@ -1,0 +1,35 @@
+
+2021-11-22 19:44:29,836 [1] [INFO ] [GameServer] £ºGame Server Init
+2021-11-22 19:44:30,463 [1] [WARN ] [GameServer] £ºStarting Listener...
+2021-11-22 19:44:30,535 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,535 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,535 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,535 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,535 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,535 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,535 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,535 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2021-11-22 19:44:30,578 [1] [WARN ] [GameServer] £ºNetService Started
+2021-11-22 19:46:47,434 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:2429]] Connected
+2021-11-22 19:46:47,473 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2021-11-22 19:46:47,570 [5] [INFO ] [GameServer] £ºUserRegisterRequest: User:111  Pass:222
+2021-11-22 19:46:52,526 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2021-11-22 19:46:52,528 [6] [INFO ] [GameServer] £ºUserLoginRequest: User:111  Pass:666
+2021-11-22 19:46:55,293 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2021-11-22 19:46:55,293 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:111  Pass:222
+2021-11-22 19:47:09,949 [9] [WARN ] [GameServer] £ºClient[] DataReceived Len:38
+2021-11-22 19:47:09,951 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:12324214124124142412412412  Class:Warrior
+2021-11-22 19:47:13,616 [16] [WARN ] [GameServer] £ºClient[] DataReceived Len:38
+2021-11-22 19:47:13,616 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:12324214124124142412412412  Class:Warrior
+2021-11-22 19:47:19,907 [16] [WARN ] [GameServer] £ºClient[] Disconnected
+2021-11-22 19:48:25,678 [16] [WARN ] [GameServer] £ºClient[127.0.0.1:2711]] Connected
+2021-11-22 19:48:25,735 [16] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2021-11-22 19:48:25,735 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:111  Pass:222
+2021-11-22 19:52:39,667 [14] [WARN ] [GameServer] £ºClient[] DataReceived Len:35
+2021-11-22 19:52:39,668 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:23123213123123123123123  Class:Warrior
+2021-11-22 19:52:42,424 [22] [WARN ] [GameServer] £ºClient[] DataReceived Len:35
+2021-11-22 19:52:42,424 [5] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:23123213123123123123123  Class:Warrior
+2021-11-22 19:52:43,556 [22] [WARN ] [GameServer] £ºClient[] DataReceived Len:35
+2021-11-22 19:52:43,557 [6] [INFO ] [GameServer] £ºUserCreateCharacterRequest: Name:23123213123123123123123  Class:Warrior
+2021-11-22 19:53:19,823 [22] [WARN ] [GameServer] £ºClient[] Disconnected
+2021-11-22 20:13:13,442 [1] [INFO ] [GameServer] £ºGame Server Init
